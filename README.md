@@ -1,0 +1,1 @@
+This repository demonstrates a common Python coding error: an unclosed bracket in a function definition that may result in a ZeroDivisionError if the input is zero.  The solution involves improved error handling and input validation.
